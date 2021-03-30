@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1561608987 source:/Users/ellehoarau/Documents/ItemToPurchase-codeblocks/main.cpp
+	<iostream>
+
+1569796363 source:/Users/ellehoarau/Documents/COMSC-165/ItemToPurchase-codeblocks/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
